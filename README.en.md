@@ -8,7 +8,7 @@
 
 A local visual workbench for Codex, Claude Code, Qwen Code and OpenCode: draw multi-agent workflows on a canvas and sync them into your repo as plain `AGENTS.md` + skill files.
 
-[中文](README.md) · [Quick start](#quick-start) · [Full promo video](https://github.com/wangyichuan0609-tech/workflow-studio/releases/latest) · [MIT License](LICENSE)
+[中文](README.md) · [Quick start](#quick-start) · [Full promo video](https://github.com/w1ccc/workflow-studio/releases/latest) · [MIT License](LICENSE)
 
 </div>
 
@@ -27,7 +27,7 @@ A local visual workbench for Codex, Claude Code, Qwen Code and OpenCode: draw mu
 Requirements: Python 3.9+ and one AI coding tool (Codex, Claude Code, Qwen Code or OpenCode). No pip install, no npm.
 
 ```bash
-git clone https://github.com/wangyichuan0609-tech/workflow-studio.git
+git clone https://github.com/w1ccc/workflow-studio.git
 cd workflow-studio
 python3 server.py
 ```
