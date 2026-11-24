@@ -8,7 +8,7 @@
 
 为 Codex、Claude Code、Qwen Code、OpenCode 打造的本地可视化工作台
 
-[English](README.en.md) · [3 步上手](#3-步上手) · [完整宣传片](https://github.com/wangyichuan0609-tech/workflow-studio/releases/latest) · [MIT 许可](LICENSE)
+[English](README.en.md) · [3 步上手](#3-步上手) · [完整宣传片](https://github.com/w1ccc/workflow-studio/releases/latest) · [MIT 许可](LICENSE)
 
 </div>
 
@@ -21,7 +21,7 @@
 只需要 Python 3.9 或更高版本（macOS 自带），不用安装任何依赖。
 
 ```bash
-git clone https://github.com/wangyichuan0609-tech/workflow-studio.git
+git clone https://github.com/w1ccc/workflow-studio.git
 cd workflow-studio
 python3 server.py
 ```
